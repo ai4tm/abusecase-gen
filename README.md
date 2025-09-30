@@ -1,6 +1,6 @@
 # Agentic Abuse-Case Generator
 
-Multi-persona agent system that auto-generates abuse cases for features, tying outputs to common threat frameworks.
+Multi-persona agent system that auto-generates abuse cases for features based on [OWASP guidelines](https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html).
 
 ## What it is
 
